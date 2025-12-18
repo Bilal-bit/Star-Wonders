@@ -1,6 +1,6 @@
 import React from "react";
 import BlackHole from '../assets/blackhole.webp'
-import mainsq from '../assets/mainsqStar.jpeg'
+import mainsq from '../assets/mainSqStar.jpeg'
 import redstar from '../assets/redStar.webp'
 import whitedwarf from '../assets/whitestar.webp'
 import neutron from '../assets/neutron.jpeg'
