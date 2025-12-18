@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import StarIcon from "../assets/starlogo.png";
+import StarIcon from "/starlogo.png";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
